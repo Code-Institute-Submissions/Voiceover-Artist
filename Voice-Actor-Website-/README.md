@@ -66,4 +66,51 @@ All the pages feature a header to indicate what page you are on except the home 
 * Add more blog pages and posts + images 
 * A pop that asks the viewer about cookies and sharing data 
 * A  call to action button on the home page 
+ 
 
+####  Technologies Used
+***
+
+*	Cloud- I used Cloud9 as the IDE while developing the website. 
+*	This Website uses HTML and CSS .
+*	BootstrapCDN - The project uses Bootstrap4  for easy structuring and to make the project responsive . 
+*	FontAwesomeCDN - The project uses FontAwesome to provide icons .
+*	Google Fonts - The project uses Google fonts to style the website fonts.
+*	Javascript - The project uses brief Javascript to create a back to top button.
+
+
+#### Testing
+***
+
+
+##### **Part-1**  Testing client "user stories"
+
+•	As a first-time/curious visitor I would like to be able to read up about the artist to get an idea of who they are their background. – On the Navigation bar is a clear link to the about me section of the page. – on this page is a is a photo of the artist and some text to introduce the artist. 
+
+•	As an agent/director I would like to view demos reels and see the VO’s work so I can decide if I want to use their voice for a project. – On the homepage there’s a clear snippet section labelled “sample demos” which give a visitor a little taster of the VO’s work – There’s a demo section in the navigation bar of each page. 
+
+•	As an agent/director I want to easily navigate through the site and find to find what I require. - Regardless of the page the visitor is on they can use the navigation bar to traverse and easily find what they are looking for. - The logo also always leads back to the homepage. 
+
+•	As an agent /director looking for casting, I would like to see some reviews/testimonials of the voice over artists previous work so I can see what this artists reputation is like from other people’s perspectives. – on the homepage you can see a snippet of testimonials from previous clients which is clearly labelled” testimonials“.
+
+
+•	As an interested client/visitor I would like to see some interesting content like a blog, so I can understand or learn from the voice artists thoughts, feelings and experiences. – on The navigation bar you can see a link clearly labelled “blogs “ this is present on every page. 
+
+•	As a potential/future client, I would like to keep up with this Vo via social media in order to see their recent activity and potentially contact them for a job in the future. – Within the navigation  and footer sections of each page, there social media buttons that lead to social media pages of the artist. 
+
+
+•	As a returning client I want to be able to contact the voice over artist easily to arrange an audition. – within the navigation bar is a link clearly labelled “contact me” – Alternatively if the client is in a rush contact information such as email and phone number are present in the navigation bar and the footer of the page. 
+
+##### **Part-2** Testing elements and links
+*Navigation bar (present on all pages):*
+* Start on any page from a desktop view.
+* Right click the mouse or touch pad on a web browser screen and click "inspect", this will atke you to "developer tools"
+from there you can adjust the screen size of the page. 
+*Start by changing the screen size to tablet and then to a smaller size for phones.during testing there were some elements that had overflow causing the webpage to be pushed left. This was solved by reducing the amount of padding /margin on certain elements and imgs. 
+* Click each menu item like to see if they take you to the correct pages. 
+* Click the logo button from any other page apart from the homepage to see if it take you to the homepage.
+* Hover over any links to see if they change color. 
+* Click the social media links to see if they take you to a tesrt page. 
+
+
+##### **Part-3**
