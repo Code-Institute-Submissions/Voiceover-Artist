@@ -81,7 +81,11 @@ All the pages feature a header to indicate what page you are on except the home 
 
 #### Testing
 ***
+[W3C markup Validation service](https://validator.w3.org/)
 
+[W3C CSS Validation service](https://jigsaw.w3.org/css-validator/)
+
+The webpages used to create this site were validated using W3C validators 
 
 ##### **Part-1**  Testing client "user stories"
 
@@ -107,10 +111,50 @@ All the pages feature a header to indicate what page you are on except the home 
 * Right click the mouse or touch pad on a web browser screen and click "inspect", this will atke you to "developer tools"
 from there you can adjust the screen size of the page. 
 *Start by changing the screen size to tablet and then to a smaller size for phones.during testing there were some elements that had overflow causing the webpage to be pushed left. This was solved by reducing the amount of padding /margin on certain elements and imgs. 
+* Check the button that reveals the menu items on the tablet and mobile view works 
+* Check that when the screen size changes to tablet or desktop the menu items are hidden and the contact info is stacked below the logo.
 * Click each menu item like to see if they take you to the correct pages. 
 * Click the logo button from any other page apart from the homepage to see if it take you to the homepage.
 * Hover over any links to see if they change color. 
-* Click the social media links to see if they take you to a tesrt page. 
+* Click the social media links to see if they take you to a test page. 
+
+*Footer (present on all pages):*
+* start from desktop view.
+* In developer tools adjust the screen size of the page to a tablet view then a mobile phone view and see if the contact info and social media links center slightly on those screen sizes.
+* Hover over any links to see if they change color. 
+* Click the social media links to see if they take you to a test page. 
+* Check that the copyright text in the footer stacks and centers when on the tablet or mobile view 
+*Back to top button (present on all pages)*
+* On any page scroll half way down and then check to see if a "top" button appears.
+Click button and it should take you back to the top of the page.
 
 
-##### **Part-3**
+ *Homepage*
+ * Change the screen size to mobile view and see if the image and text in the jumbotron stack over each other with the image on top. 
+ * Click one of the sample demos to see if the audio plays. 
+ * Check the structure of the audio boxes on different screen sizes as they should stack when on tablet and mobile view. 
+ 
+ 
+ 
+ *About-me page*
+* Change the screen size back and forth see if the image and the text box sizes adjust on mobile and tablet view view. 
+ 
+ *Demos page* 
+* Change the screen sizes back and forth to see if the audio boxes stack on tablet and mobile view. 
+* Click the play button on the first audio box to see if it plays audio. 
+ *blog pages : July and August* 
+ * Change the screen sizes back and forth see if the "blog box" and "archive box" stack on top of each other when on tablet and mobile view. 
+ * Click the link to the first blog to see if it takes you the page with the blog on it. 
+ * Click the links in the archive box to see if it takes you to the august blog page
+ * Hover over the text in the archive box see if it change color.
+ *blog article-page* 
+* change the screen size back and forth to see whether content fits adjusts itself to the diferent screen sizes. 
+* Hover over the text in the archive box see if it change color.
+
+ *Contact-me page*
+* Change the screen sizesback and forth see if the input box layout changes and stack on top of each other. 
+* Click the send button to see if an error message asking for required fields appears
+ 
+
+##### **Part-3** Further testing 
+
