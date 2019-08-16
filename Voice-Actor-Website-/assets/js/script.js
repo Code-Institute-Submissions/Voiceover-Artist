@@ -1,3 +1,13 @@
+{
+  $("p.contact-nav-font-size").text("StephenK@fakemail.com");
+ 
+ $("p.pt-4.contact-nav-font-size").text("0754456626");
+
+ 
+  
+}
+
+
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
