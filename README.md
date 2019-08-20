@@ -157,4 +157,48 @@ Click button and it should take you back to the top of the page.
  
 
 ##### **Part-3** Further testing 
+***
+I tested the site on my iphone and my old samsung, I didnt find any problems. 
 
+#### Deployment
+***
+I used Github pages to deploy the site. 
+
+* Log onto GitHub.
+* on the left side of the screen, select the repository with the name xxkaminaxx/xxkaminaxx.github.io 
+*Then from the menu items, select Settings.
+* Keep scrolling down till you get to the GitHub Pages section.
+* within that section, click the button under source labelled None and select Master Branch
+* when you select the master branch the page will be freshed and the website would then be deployed.  deployed.
+* Scroll back down again to the GitHub Pages section and click the link to the deployed website.
+
+**To deploy this site locally follow these steps:**
+* Click this link to the repository https://github.com/xxkaminaxx/xxkaminaxx.github.io
+* Then click the "clone or download" button on the right side of the screen. 
+* Copy the link given then open up the IDE you wish to clone the repository in
+* Within the terminal in the repository, type in  "git clone " then paste the link next to git clone and press enter 
+* You should have the folder in your IDE. 
+
+
+
+
+There weren't any differences between the developed site and the deployed
+#### Credits -
+***
+
+###### Content -
+* The text used for this site was taken from google fonts library 
+
+###### Media -
+* The photos used in this site were taken by myself, Stephen kasolo
+* The background image used throughout each of the pages was taken from  https://www.freepik.com 
+
+###### Code - 
+* The JS code for the back to top button was taken from and modified //https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+
+###### Acknowledgements
+
+* I got my inspiration and ideas from looking at other voice actor sites.
+
+*Disclaimer*
+* The content for this Website is for educational purposes only.
