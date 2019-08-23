@@ -25,4 +25,4 @@ function topFunction() {
 }
 
 
-//https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+//This code was taken and modified from https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
