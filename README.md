@@ -116,7 +116,7 @@ I used Github pages to deploy the site.
 
 
 
-There weren't any differences between the developed site and the deployed
+I made some changes with the developed version of the site and the deployed version.
 #### Credits -
 ***
 
