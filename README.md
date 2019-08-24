@@ -34,7 +34,16 @@ How your project is the best way to help them achieve that:
 *	As a potential/future client, I would like to keep up with this Vo via social media in order to see their recent activity and potentially contact them for a job in the future. 
 *	As a returning client I want to be able to contact the voice over artist easily to arrange an audition. 
 
-“Wireframes here”
+##### Wireframes 
+
+ * [Homepage](https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/Homepage-WMU.JPG) 
+ * [About-me](https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/About-me-WMU.jpg)
+ *  [Demos]( https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/tropical-pattern-background_44285-1301.jpg)
+*    [Blog](https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/Blog-WMU.JPG) 
+* [Blog-page](https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/Blog-page-WMU.jpg)  
+* [Contact-me](https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/Contact-me-WMU.jpg)  
+* [Navbar](http://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/Navbar-WMU.jpg)
+
 
 #### Existing features
 ***
