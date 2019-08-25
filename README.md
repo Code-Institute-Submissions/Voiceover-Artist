@@ -115,8 +115,14 @@ I used Github pages to deploy the site.
 
 
 
+ **From the development stage to deployment stage.**
+ 
+ I made some  changes during the decvelopment from the initial designs see in the wireframe mockups:
+ * Homepage- I took out the extra links to the other pages on my site because I didn't want to cause information overload to the viewer by presenting too many options.
+ * About me - originally i was going to make it so the image and the text box on the page would change positions as the screen size changed but I thought this was unnecessary and could be made simplier, so i kept the page the same even when the screen size changed. 
+ * Blog - originally i was going to change the structure of the boxes on this page on the desktop view but decided against it because i wanted to keep the page simple, so i kept the structure the same even when the screen size changes.
+ 
 
-I made some changes with the developed version of the site and the deployed version.
 #### Credits -
 ***
 
