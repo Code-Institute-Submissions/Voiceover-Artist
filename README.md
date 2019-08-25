@@ -1,38 +1,24 @@
 # Voiceover Website  
-Overview 
-This Is a website for an aspiring voice over artist in the UK. The goal of this website is to showcase my demos and promote my services. This is important as a voice actor for a few reasons: You as the voice actor are the business therefore you are a brand. A personal website will contribute to defining your brand and reputation e.g who you are and what you have to offer. 
-Secondly you won’t always be able to rely on social media because there are limitations. Ideally as a voice actor you want a website in addition to social media presence because with just social media you have variance limitations such as control on the brand image and perception, limited design and layout, and lack of ownership takes more time to find what you need . 
-Relating to the client (director, show runners ect) The goal of this website is to give them a sense of professionalism and make life easy enough for the client to see what you are about as a brand,  search for you, view your demos or contact you directly. 
+Overview – This is my voice over portfolio website.  The goal of this website is to showcase my demos and promote my services. 
 
-#### UX
+The portfolio includes 5 main pages  such as : Homepage (index.html) , an about-me page a demos page, a blog page as well as a contact me page with other additional pages such as a test page to verify the links work and several pages relating to the blog page. 
+
+
+### UX Design
 ***
-The ideal customer/client this website is for : 
-*	A director’s 
-*	Radio stations 
-*	Advertising agencies 
-*	Game companies 
-*	Translation companies 
+##### Site owner design goals :
+1) My goal for the design was to make sure the site feels familiar and intuitive when the user interacts with the website, so they are easily able to navigate through the portfolio . 
+2) I also wanted to use a simple but colourful design to convey my image/ brand to said viewer. By brand I mean who I am and what I’m about.  This is important for a voice actor because a website is an opportunity to convey the right image and perception as appose to just using social media to do this because of its various limitations. 
+3) I also wanted to use the website as a means of clients contacting me directly as appose to being contacted through  a direct message via social media which over time can become a block collection of non-assorted and unorganised text, so I implemented a contact form that requires an email, name and subject. 
 
-
-What the voice artist want to achieve: 
-*	To allow clients easily access voice demos
-*	To give clients a good first impression of the brand/business 
-*	To briefly view any testimonials of the artists previous work if available. 
-
-How your project is the best way to help them achieve that:
-* This website will help convey a certain image and give the desired impression, of  the voice over artist, to the client looking for the Voice over artist’s services.
-* This website will make a client/director’s life easier as they find a voice actor because they won’t have to traverse through social media to find demo reels of their work 
-* With this website the Voice actors’ clients will be able to see positive testimonials as appose to negative or bias comments which can be found on social media.
-
-#### User stories 
-***
-*	As a first-time/curious visitor I would like to be able to read up about the artist to get an idea of who they are their background. 
-*	As an agent/director I would like to view demos reels and see the VO’s work so I can decide if I want to use their voice for a project. 
+##### User stories
+*	As a first-time/curious visitor I would like to be able to read up about the Voice over artist to get an idea of who they are their background. 
+*	As an agent/director I would like to view demos reels and see the Voice over artist’s work so I can decide if I want to use their voice for a project. 
 *	As an agent/director  I want to easily navigate through the site and find to find what I require. 
 *	As an agent /director looking for casting, I would like to see some reviews/testimonials of the voice over artists previous work.
-*	As an interested client/visitor I would like to see some interesting content like a blog, so I can understand or learn from the voice artists thoughts, feelings and experiences.
-*	As a potential/future client, I would like to keep up with this Vo via social media in order to see their recent activity and potentially contact them for a job in the future. 
-*	As a returning client I want to be able to contact the voice over artist easily to arrange an audition. 
+*	As an interested client/visitor I would like to see some interesting content like a blog, so I can understand or learn from the Voice over artist thoughts, feelings and experiences.
+*	As a potential/future client, I would like to keep up with this Voice over artist via social media in order to see their recent activity and potentially contact them for a job in the future. 
+*	As a returning client I want to be able to contact and converse the voice over artist easily to arrange an audition. 
 
 ##### Wireframes 
 
@@ -75,6 +61,7 @@ All the pages feature a header to indicate what page you are on except the home 
 * Add more blog pages and posts + images 
 * A pop that asks the viewer about cookies and sharing data 
 * A  call to action button on the home page 
+* Add more demos to give the viewer a variety of my different services. 
  
 
 ####  Technologies Used
