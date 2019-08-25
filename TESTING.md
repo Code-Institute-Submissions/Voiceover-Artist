@@ -24,7 +24,7 @@ The webpages used to create this site were validated using W3C validators
 
 •	As a returning client I want to be able to contact the voice over artist easily to arrange an audition. – within the navigation bar is a link clearly labelled “contact me” – Alternatively if the client is in a rush contact information such as email and phone number are present in the navigation bar and the footer of the page. 
 
-##### **Part-2** Testing elements and links
+##### **Part-2** Manual testing elements and links
 *Navigation bar (present on all pages):*
 * Start on any page from a desktop view.
 * Right click the mouse or touch pad on a web browser screen and click "inspect", this will atke you to "developer tools"
