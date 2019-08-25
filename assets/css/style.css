@@ -4,9 +4,11 @@ Imports
 
 @import url('https://fonts.googleapis.com/css?family=Aguafina+Script|Rock+Salt&display=swap');
 
-/**************************
-Default
-************************/
+
+
+/*************************************************
+Default styles and settings used across all pages.
+***************************************************/
 
 html,
 body {
@@ -19,17 +21,23 @@ a {
 }
 
 
-.about-me-img {
-    width: 100%;
-    height: 100%;
-    margin: 0 auto;
+a:hover {
+    text-decoration: none;
+    color: #E9C6D6;
 }
 
+.wrapper {
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+}
 
+/* I had some problems with responsiveness 
+so i put a wrapper to make it so that the sceen 
+would be 100% width of the view port */
 
 .tropical-bg {
     background: url("../images/tropical-pattern-background_44285-1301.jpg") no-repeat fixed center;
-    background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -37,141 +45,25 @@ a {
     /*https://www.freepik.com*/
 }
 
-.img-size {
-    width: 310px;
-    height: 266px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
+.section-bg {
+    background-color: #E9E5E2;
 }
 
-.img-container {
-    width: 300px;
-    height: 400px;
-    margin: 0 auto;
-
-}
-
-.img-container img {
-    width: 100%;
-    height: 100%;
-
-}
-
-
-div.blog-container {
-    position: relative;
-    height: 150px;
-    width: 150px;
-    /* display: flex;
-    align-items: center;
-    justify-content: center;*/
-    background-color: #000;
-    margin: 0 auto;
-}
-
-div.blog-container p {
-    position: absolute;
-    top: 40%;
-    left: 10%;
-    right: 5%;
-    color: #fff;
-
-
-}
-
-div.blog-container img {
-    height: 150px;
-    width: 150px;
-}
-
-div.blog-container h5 {
-    position: absolute;
-    top: 30%;
-    left: 5%;
-    font-size: 15px;
-    color: #fff;
-}
-
-.icon-size {
-    font-size: 70px;
-}
-
-.relative {
-    position: relative;
-
-
-}
-
-.Absolute-logo {
-    position: absolute;
-    top: -30px;
-    left: -20px;
-    right: 0;
-}
-
-
-.microphone-logo {
-    font-size: 60px;
-    margin-left: 7px;
-    color: #d580ff;
-}
-
-.Sk-Text-logo {
-    font-size: 35px;
-
-}
-
-.bullet-point-none li {
-    list-style: none;
-}
-
-
-.archive {
-    display: block;
-    margin: 0px 0;
-}
-
-.archive-color {
-    color: #d580ff;
+.section-bg2 {
+    background-color: #fff;
 }
 
 .underline {
     text-decoration: underline;
 }
 
-
-a:hover {
-    text-decoration: none;
-    color: #E9C6D6;
-}
-
 .email-text {
     font-size: 12px;
 }
 
-.audio-box-size {
-    width: 80%;
-
-}
-
-#TopBtn {
-    display: none;
-    position: fixed;
-    bottom: 20px;
-    right: 30px;
-    z-index: 99;
-    background-color: #d580ff;
-    color: #fafafa;
-    cursor: pointer;
-    padding: 15px;
-    font-size: 20px;
-}
-
-#TopBtn:hover {
-
-    background-color: #E9E5E2;
+.email-m-p {
+    margin: 0;
+    padding: 0;
 }
 
 .btn-color {
@@ -225,34 +117,148 @@ div.highlight-links li :hover {
 }
 
 
+
 /**************************
-Layout 
+logo 
 ************************/
 
-.wrapper {
-    width: 100vw;
-    padding: 0;
-    margin: 0;
+.static-logo-box {
+    width: 100px;
 }
 
-.email-m-p {
-    margin: 0;
-    padding: 0;
+
+.icon-size {
+    font-size: 70px;
 }
 
-.section-bg {
-    background-color: #E9E5E2;
+.relative {
+    position: relative;
+
+
 }
 
-.section-bg2 {
-    background-color: #fff;
+.Absolute-logo {
+    position: absolute;
+    top: -30px;
+    left: -20px;
+    right: 0;
+}
+
+
+.microphone-logo {
+    font-size: 60px;
+    margin-left: 7px;
+    color: #d580ff;
+}
+
+.Sk-Text-logo {
+    font-size: 35px;
+
+}
+
+
+/**************************
+index (Homepage)
+************************/
+
+.img-size {
+    width: 310px;
+    height: 266px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.img-container {
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+
+}
+
+.img-container img {
+    width: 100%;
+    height: 100%;
+
+}
+
+/**************************
+About-me page
+************************/
+
+.about-me-img {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+
+/**************************
+blog page styles 
+************************/
+
+.archive {
+    display: block;
+    margin: 0px 0;
+}
+
+.archive-color {
+    color: #d580ff;
 }
 
 .archive-centering {
     text-align: center;
 }
 
+div.blog-container {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    /* display: flex;
+    align-items: center;
+    justify-content: center;*/
+    background-color: #000;
+    margin: 0 auto;
+}
 
+div.blog-container p {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    right: 5%;
+    color: #fff;
+
+
+}
+
+div.blog-container img {
+    height: 150px;
+    width: 150px;
+}
+
+div.blog-container h5 {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    font-size: 15px;
+    color: #fff;
+}
+
+
+
+/**************************
+audio box - found on index and demo.html
+************************/
+
+.audio-box-size {
+    width: 80%;
+}
+
+
+/**************************
+Footer 
+************************/
 
 .footer-margin {
     margin: 20px auto;
@@ -268,14 +274,33 @@ Layout
 }
 
 
+
+/**************************
+Back to top button 
+************************/
+
+#TopBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    background-color: #d580ff;
+    color: #fafafa;
+    cursor: pointer;
+    padding: 15px;
+    font-size: 20px;
+}
+
+#TopBtn:hover {
+
+    background-color: #E9E5E2;
+}
+
+
 /*************************
 media queries 
 ************************/
-
-/* This was added in to fix a problem i had with the 
-contact bar at the top of the page, when it transitioned 
-between the the sm and md break points. 
-the transition */
 
 @media ( max-width:767px) and (min-width:319px) {
     .width-100 {
@@ -286,8 +311,10 @@ the transition */
     .nav-font-size {
         font-size: small;
     }
-
-
+    /* This was added in to fix a problem i had with the 
+contact bar at the top of the page, when it transitioned 
+between the the sm and md break points. I wanted two elements
+to stack one above one below however they would sit beside each other in an awkward position */
 }
 
 
@@ -322,13 +349,13 @@ the transition */
         margin: 0 auto;
     }
 
-   
+
     .blog-30 {
         width: 30%;
         margin-left: 15%;
         margin-right: 15%;
     }
-    
+
     .blog-30-A {
         width: 30%;
         margin-right: 5%;
@@ -339,7 +366,7 @@ the transition */
     .blog-70 {
         width: 70%;
     }
-  
+
 
 
     .coming-soon-container {

@@ -121,11 +121,35 @@ I used Github pages to deploy the site.
 * The background image used throughout each of the pages was taken from  https://www.freepik.com 
 
 ###### Code - 
-* The JS code for the back to top button was taken from and modified //https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+* The JS code for the back to top button was taken from and modified //https://www.w3schools.com/howto/howto_js_scroll_to_top.asp 
+ (This snipet of code was taken directly from my css style sheet)
+
+
+***
+"window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 700 || document.documentElement.scrollTop >700) {
+    document.getElementById("TopBtn").style.display = "block";
+  } else {
+    document.getElementById("TopBtn").style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
+//This code was taken and modified from https://www.w3schools.com/howto/howto_js_scroll_to_top.asp" 
+***
 
 ###### Acknowledgements
 
-* I got my inspiration and ideas from looking at other voice actor sites.
+I got my inspiration and ideas from looking at other voice actor sites. Particularly from these two sites:
+* 1)http://www.rachaelcharles.com - Rachael Charles 
+* 2)https://kimhandysidesvoiceover.com/ - Kim handysides
 
 *Disclaimer*
 * The content for this Website is for educational purposes only.

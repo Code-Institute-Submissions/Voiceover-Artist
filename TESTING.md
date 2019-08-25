@@ -73,6 +73,7 @@ Click button and it should take you back to the top of the page.
  *Contact-me page*
 * Change the screen sizesback and forth see if the input box layout changes and stack on top of each other. 
 * Click the send button to see if an error message asking for required fields appears
+* I tried to imput an invalid email address and the form refused to submit and gave me an error message telling me what to do.
  
 
 ##### **Part-3** Further testing 
