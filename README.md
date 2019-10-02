@@ -23,7 +23,7 @@ The portfolio includes 5 main pages  such as : Homepage (index.html) , an about-
 ##### Wireframes 
 
  * [Homepage](https://github.com/xxkaminaxx/Voiceover-Artist/blob/master/Mockups/Home-page-WMU.JPG) 
- * [About-me](https://github.com/xxkaminaxxVoiceover-Artist/blob/master/Mockups/About-me-WMU.jpg)
+ * [About-me](https://github.com/xxkaminaxx/Voiceover-Artist/blob/master/Mockups/About-me-WMU.jpg)
  *  [Demos]( https://github.com/xxkaminaxx/Voiceover-Artist/blob/master/Mockups/tropical-pattern-background_44285-1301.jpg)
 *    [Blog](https://github.com/xxkaminaxx/Voiceover-Artist/blob/master/Mockups/Blog-WMU.JPG) 
 * [Blog-page](https://github.com/xxkaminaxx/Voiceover-Artist/blob/master/Mockups/Blog-page-WMU.jpg)  
