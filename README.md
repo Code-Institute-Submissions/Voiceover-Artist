@@ -1,4 +1,4 @@
-# Voiceover Website  
+# Voiceover Artist  Website  
 Overview – This is my voice over portfolio website.  The goal of this website is to showcase my demos and promote my services. 
 
 The portfolio includes 5 main pages  such as : Homepage (index.html) , an about-me page a demos page, a blog page as well as a contact me page with other additional pages such as a test page to verify the links work and several pages relating to the blog page. 
@@ -22,13 +22,13 @@ The portfolio includes 5 main pages  such as : Homepage (index.html) , an about-
 
 ##### Wireframes 
 
- * [Homepage](https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/Homepage-WMU.JPG) 
- * [About-me](https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/About-me-WMU.jpg)
- *  [Demos]( https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/tropical-pattern-background_44285-1301.jpg)
-*    [Blog](https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/Blog-WMU.JPG) 
-* [Blog-page](https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/Blog-page-WMU.jpg)  
-* [Contact-me](https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/Contact-me-WMU.jpg)  
-* [Navbar](http://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/Mockups/Navbar-WMU.jpg)
+ * [Homepage](https://github.com/xxkaminaxx/Voiceover-Artist/blob/master/Mockups/Home-page-WMU.JPG) 
+ * [About-me](https://github.com/xxkaminaxxVoiceover-Artist/blob/master/Mockups/About-me-WMU.jpg)
+ *  [Demos]( https://github.com/xxkaminaxx/Voiceover-Artist/blob/master/Mockups/tropical-pattern-background_44285-1301.jpg)
+*    [Blog](https://github.com/xxkaminaxx/Voiceover-Artist/blob/master/Mockups/Blog-WMU.JPG) 
+* [Blog-page](https://github.com/xxkaminaxx/Voiceover-Artist/blob/master/Mockups/Blog-page-WMU.jpg)  
+* [Contact-me](https://github.com/xxkaminaxx/Voiceover-Artist/blob/master/Mockups/Contact-me-WMU.jpg)  
+* [Navbar](http://github.com/xxkaminaxx/Voiceover-Artist/blob/master/Mockups/Navbar-WMU.jpg)
 
 
 #### Existing features
@@ -78,23 +78,23 @@ All the pages feature a header to indicate what page you are on except the home 
 #### Testing 
 ***
 
-Click [here](https://github.com/xxkaminaxx/xxkaminaxx.github.io/blob/master/TESTING.md) to get to testing page. 
+Click [here](https://github.com/xxkaminaxx/Voiceover-Artist/blob/master/TESTING.md) to get to testing page. 
 
 #### Deployment
 ***
 
-I used Github pages to deploy the site. 
+*I used Github pages to deploy the site*. 
 
 * Log onto GitHub.
-* on the left side of the screen, select the repository with the name xxkaminaxx/xxkaminaxx.github.io 
-*Then from the menu items, select Settings.
+* on the left side of the screen, select the repository with the name "**Voiceover-Artist**" 
+* Then from the menu items, select Settings.
 * Keep scrolling down till you get to the GitHub Pages section.
 * within that section, click the button under source labelled None and select Master Branch
 * when you select the master branch the page will be freshed and the website would then be deployed.  deployed.
 * Scroll back down again to the GitHub Pages section and click the link to the deployed website.
 
 **To deploy this site locally follow these steps:**
-* Click this link to the repository https://github.com/xxkaminaxx/xxkaminaxx.github.io
+* Click this link to the repository https://github.com/xxkaminaxx/Voiceover-Artist
 * Then click the "clone or download" button on the right side of the screen. 
 * Copy the link given then open up the IDE you wish to clone the repository in
 * Within the terminal in the repository, type in  "git clone " then paste the link next to git clone and press enter 
@@ -121,11 +121,11 @@ I used Github pages to deploy the site.
 * The background image used throughout each of the pages was taken from  https://www.freepik.com 
 
 ###### Code - 
-* The JS code for the back to top button was taken from and modified //https://www.w3schools.com/howto/howto_js_scroll_to_top.asp 
- (This snipet of code was taken directly from my css style sheet)
+
+ (This snipet of code was taken directly from my JS script.)
 
 
-***
+```
 "window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
@@ -141,7 +141,7 @@ function topFunction() {
   document.body.scrollTop = 0; // For Safari
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
-
+```
 //This code was taken and modified from https://www.w3schools.com/howto/howto_js_scroll_to_top.asp" 
 ***
 
