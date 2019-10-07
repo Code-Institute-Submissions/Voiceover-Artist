@@ -1,10 +1,14 @@
 # Voiceover Artist  Website  
+
+
+
+
 Overview – This is my voice over portfolio website.  The goal of this website is to showcase my demos and promote my services. 
 
 The portfolio includes 5 main pages  such as : Homepage (index.html) , an about-me page a demos page, a blog page as well as a contact me page with other additional pages such as a test page to verify the links work and several pages relating to the blog page. 
 
-
-### UX Design
+[Voice Actor Website](https://xxkaminaxx.github.io/Voiceover-Artist/)
+### UX Design 
 ***
 ##### Site owner design goals :
 1) My goal for the design was to make sure the site feels familiar and intuitive when the user interacts with the website, so they are easily able to navigate through the portfolio . 
