@@ -27,11 +27,7 @@ a:hover {
     color: #E9C6D6;
 }
 
-.wrapper {
-    width: 100vw;
-    padding: 0;
-    margin: 0;
-}
+
 
 /* I had some problems with responsiveness 
 so i put a wrapper to make it so that the sceen 
