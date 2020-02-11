@@ -29,9 +29,6 @@ a:hover {
 
 
 
-/* I had some problems with responsiveness 
-so i put a wrapper to make it so that the sceen 
-would be 100% width of the view port */
 
 .tropical-bg {
     background: url("../images/tropical-pattern-background_44285-1301.jpg") no-repeat fixed center;
